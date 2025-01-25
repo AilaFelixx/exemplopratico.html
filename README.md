@@ -1,5 +1,7 @@
 # exemplopratico.html
  
+My project: <a href="https://ailafelixx.github.io/exemplopratico.html/site.html">https://ailafelixx.github.io/exemplopratico.html/site.html</a>
+
 I want to use this README to make one thing clear: I used an existing recipe website named 'TudoGostoso' for inspiration. The description of the recipes is an example of it. I did this because I didn't want to lose too much time building the website from scratch; I just wanted to practice my HTML and CSS skills. Doing this optimized my time.
 And one more thing I need to clarify: I don't have plans to post this project as a oficial website or anything else. It was just to practice the skills I've learned in the classes.
  
