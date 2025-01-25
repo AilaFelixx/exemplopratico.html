@@ -23,6 +23,7 @@ body {
 header {
     background-color: #FF5F10;
     box-shadow: 0px 3px 4px 1px #FF5F10;
+    max-width: 100%;
 }
 
 #subtitulo {
@@ -39,11 +40,11 @@ header {
     background-color: #880D1E;
     outline: 2px double #1F0812;
     border-radius: 10px;
-    width: 520px;
+    font-weight: 500;
+    width: 380px;
+    font-style: italic;
     display: block;
     margin: auto;
-    font-weight: 500;
-    font-style: italic;
 }
 
 ul :hover {
@@ -71,7 +72,7 @@ main {
     max-width: 960px;
     min-width: 470px;
     margin: auto;
-    padding: 2px 20px 2px 20px;
+    padding: 2px 0px 2px 0px;
     border-radius: 5px;
     background-color: rgb(255, 255, 255);
 }
@@ -81,6 +82,7 @@ main > p {
     line-height: 21px;
     text-indent: 15px;
     margin-bottom: 22px;
+    padding: 0px 20px;
 }
 
 #apresentacao {
@@ -92,7 +94,7 @@ main > p {
     padding: 6px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.541);
     overflow: hidden;
-
+    margin-left: 20px;
 }
 
 .container {
